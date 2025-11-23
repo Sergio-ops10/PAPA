@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Papa",
+    "description": "",
+    "home_page_url": "https://sergio-ops10.github.io/Papa",
+    "feed_url": "https://sergio-ops10.github.io/Papa/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio"
+    },
+    "items": [
+    ]
+}
